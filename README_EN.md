@@ -129,7 +129,7 @@ make clean all
 
 </details>
 
-### Technology Stack
+### Technology Stac
 
 * [Vue](https://cn.vuejs.org/)
 * [Vite](https://vitejs.cn/vite3-cn/)
